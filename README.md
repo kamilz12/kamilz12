@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm 21 years old full-time Computer Science student at Lublin University of Technology. I aspire to be a Java Developer. I really like to learn a new things and spend time at programming. I'm keen onautomobiles and loves to mechanize at the car. I am open to cooperation</p>
+<p align="left">I'm full-time Computer Science student at Lublin University of Technology. I aspire to be a Java Developer. I really like to learn a new things and spend time at programming. I'm keen onautomobiles and loves to mechanize at the car. I am open to cooperation</p>
 
 ###
 
