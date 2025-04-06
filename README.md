@@ -1,74 +1,62 @@
-<h1 align="left">Hi I'm Kamil</h1>
+# Hi there! 👋 I'm Kamil
+### 💻 Computer Science Student | Backend Developer passionate about .NET 🌟
 
-###
+## 🧐 About Me
 
-<h3 align="left">About me</h3>
 
-###
+<img src="https://github.com/user-attachments/assets/9cfbd99d-bee0-4722-96ca-fb4301c01475" style="width: 25%;height=25%;"/>
 
-<p align="left">I'm full-time Computer Science student at Lublin University of Technology. I aspire to be a Java Developer. I really like to learn a new things and spend time at programming. I'm keen onautomobiles and loves to mechanize at the car. I am open to cooperation</p>
+I'm a Computer Science student with a strong interest in **backend development**, particularly in **.NET technologies**. I'm focused on building reliable and efficient backend systems, continuously improving my skills in:
 
-###
+- 💪 **C#**, **ASP.NET**, **ASP.NET Core**
+- 🗄️ **Entity Framework**, **SQL**
+- 🌐 **REST API**, **MVC**
+- 🖥️ **Blazor** - Building modern web applications
 
-<h3 align="left">Stats</h3>
+📚 I occasionally work with **Java**, **Python**, and **JavaScript** to broaden my skill set and enhance my problem-solving abilities. I'm also interested in **cybersecurity**, which provides me with new inspirations for learning and experimenting.
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamilz12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilz12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Known technologies</h3>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="40" alt="intellij logo"  />
-  <div align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" height="40" alt="hibernate logo"  />
-</div>
-</div>
-
-###
-
-<h3 align="left">Currently learning</h3>
-
-###
+---
 
 
 
-###
 
-<h3 align="left">Social Media</h3>
+## 🌟 Technologies & Tools I Use
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dot-net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest-api&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <p>e-mail: kamilziolkowski14@gmail.com</p>
-  <a href="https://www.linkedin.com/in/kamilziolkowski9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## 🚀 Projects & Interests
+I enjoy expanding my skills in various areas. Besides my primary focus on **.NET technologies**, I often experiment with:
 
-###
+- 🔒 **Cybersecurity** — Keeping up with interesting trends and news in the industry
+- 🪄 **Artificial Intelligence (AI)** — Exploring machine learning in Web Development
+- 🎮 **Game Development** — Creating projects in **.NET** and exploring other platforms
+- 🌍 **Java, Python, JavaScript** — Broadening my knowledge and practicing different programming paradigms
+
+Outside of programming, I'm also passionate about:
+
+- 🏯 **Japanese culture**
+- 💪 **Strength training**
+- 🔧 **Mechanics and cars**
+- 🎮 **Video games**
+- And... I really like cats! 🐈
+
+---
+
+## 🎯 Looking for a Job!
+I'm currently looking for a position as a **.NET Developer**. I'm open to new challenges, eager to collaborate, and excited to discuss **C# and .NET** topics!
+
+📫 **Contact Me:**  
+- Linkedin: [click](https://www.linkedin.com/in/kamilziolkowski9)
+- E-mail: **kamilziolkowski14@gmail.com**
+
+Thanks for visiting my profile! Feel free to check out my projects and collaborate on exciting new ideas. 😊
