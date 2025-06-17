@@ -52,11 +52,4 @@ Outside of programming, I'm also passionate about:
 
 ---
 
-## 🎯 Looking for a Job!
-I'm currently looking for a position as a **.NET Developer**. I'm open to new challenges, eager to collaborate, and excited to discuss **C# and .NET** topics!
 
-📫 **Contact Me:**  
-- Linkedin: [click](https://www.linkedin.com/in/kamilziolkowski9)
-- E-mail: **kamilziolkowski14@gmail.com**
-
-Thanks for visiting my profile! Feel free to check out my projects and collaborate on exciting new ideas. 😊
