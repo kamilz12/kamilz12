@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Kamil
-### 💻 Computer Science Student | Backend Developer passionate about .NET 🌟
+### 💻 Fullstack Developer 🌟
 
 ## 🧐 About Me
 
@@ -10,14 +10,11 @@ I'm a Computer Science student with a strong interest in **backend development**
 
 - 💪 **C#**, **ASP.NET**, **ASP.NET Core**
 - 🗄️ **Entity Framework**, **SQL**
-- 🌐 **REST API**, **MVC**
-- 🖥️ **Blazor** - Building modern web applications
+- 🌐 **Angular v20**, **Typescript**
 
 📚 I occasionally work with **Java**, **Python**, and **JavaScript** to broaden my skill set and enhance my problem-solving abilities. I'm also interested in **cybersecurity**, which provides me with new inspirations for learning and experimenting.
 
 ---
-
-
 
 
 ## 🌟 Technologies & Tools I Use
