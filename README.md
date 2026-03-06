@@ -26,13 +26,15 @@ I'm a fullstack dev with a strong interest in **backend development**, particula
 
 ---
 
-## 🚀 Projects & Interests
+## 🚀 Projects
 I enjoy expanding my skills in various areas, I often experiment with:
 
 - 🔒 **Cybersecurity** — keeping up with interesting trends and news in the industry
 - 🪄 **Artificial Intelligence (AI)** — exploring machine learning solutions in web dev
 - 🎮 **Game Development** — contribution for pollub .net research group
 - 🌍 **Java, Python, JavaScript** — broadening my knowledge and practicing different programming paradigms
+
+## 🛠️ Interests
 
 Outside of programming, I'm also passionate about:
 
