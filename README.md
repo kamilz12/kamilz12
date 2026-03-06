@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Kamil
-### 💻 Fullstack Developer 🌟
+### 💻 Fullstack Developer
 
 ## 🧐 About Me
 
 
 <img src="https://github.com/user-attachments/assets/9cfbd99d-bee0-4722-96ca-fb4301c01475" style="width: 25%;height=25%;"/>
 
-I'm a Computer Science student with a strong interest in **backend development**, particularly in **.NET technologies** and **Angular**. I'm focused on building reliable and efficient backend systems, continuously improving my skills in cybersec and software architecture.
+I'm a fullstack dev with a strong interest in **backend development**, particularly in **.NET technologies** with microservices, sometimes I'm writing some code in Angular. I'm focused on building reliable and efficient backend systems, continuously improving my skills in cybersec and software architecture.
 
 ---
 
@@ -29,10 +29,10 @@ I'm a Computer Science student with a strong interest in **backend development**
 ## 🚀 Projects & Interests
 I enjoy expanding my skills in various areas, I often experiment with:
 
-- 🔒 **Cybersecurity** — Keeping up with interesting trends and news in the industry
-- 🪄 **Artificial Intelligence (AI)** — Exploring machine learning in Web Development
-- 🎮 **Game Development** — Creating projects in **.NET** and exploring other platforms
-- 🌍 **Java, Python, JavaScript** — Broadening my knowledge and practicing different programming paradigms
+- 🔒 **Cybersecurity** — keeping up with interesting trends and news in the industry
+- 🪄 **Artificial Intelligence (AI)** — exploring machine learning solutions in web dev
+- 🎮 **Game Development** — contribution for pollub .net research group
+- 🌍 **Java, Python, JavaScript** — broadening my knowledge and practicing different programming paradigms
 
 Outside of programming, I'm also passionate about:
 
