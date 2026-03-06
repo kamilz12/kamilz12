@@ -6,13 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/9cfbd99d-bee0-4722-96ca-fb4301c01475" style="width: 25%;height=25%;"/>
 
-I'm a Computer Science student with a strong interest in **backend development**, particularly in **.NET technologies**. I'm focused on building reliable and efficient backend systems, continuously improving my skills in:
-
-- 💪 **C#**, **ASP.NET**, **ASP.NET Core**
-- 🗄️ **Entity Framework**, **SQL**
-- 🌐 **Angular v20**, **Typescript**
-
-📚 I occasionally work with **Java**, **Python**, and **JavaScript** to broaden my skill set and enhance my problem-solving abilities. I'm also interested in **cybersecurity**, which provides me with new inspirations for learning and experimenting.
+I'm a Computer Science student with a strong interest in **backend development**, particularly in **.NET technologies** and **Angular**. I'm focused on building reliable and efficient backend systems, continuously improving my skills in cybersec and software architecture.
 
 ---
 
@@ -28,11 +22,12 @@ I'm a Computer Science student with a strong interest in **backend development**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest-api&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ---
 
 ## 🚀 Projects & Interests
-I enjoy expanding my skills in various areas. Besides my primary focus on **.NET technologies**, I often experiment with:
+I enjoy expanding my skills in various areas, I often experiment with:
 
 - 🔒 **Cybersecurity** — Keeping up with interesting trends and news in the industry
 - 🪄 **Artificial Intelligence (AI)** — Exploring machine learning in Web Development
@@ -42,7 +37,7 @@ I enjoy expanding my skills in various areas. Besides my primary focus on **.NET
 Outside of programming, I'm also passionate about:
 
 - 🏯 **Japanese culture**
-- 💪 **Strength training**
+- 💪 **Strength training and health diet**
 - 🔧 **Mechanics and cars**
 - 🎮 **Video games**
 - And... I really like cats! 🐈
